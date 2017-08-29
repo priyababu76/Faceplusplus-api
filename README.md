@@ -1,2 +1,2 @@
 # Face-api
-please look at tt.py
+please run tt.py
